@@ -7,3 +7,6 @@
 1. Connect the repo to the project.
 1. Create a trigger.
 1. Add a tf resource to the dev branch. Make sure the build service account has bucket admin access.
+1. Push to origin and checkout the build job.
+
+## END
