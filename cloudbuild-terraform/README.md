@@ -6,3 +6,4 @@
 1. Add editor role to Cloud Build service account.
 1. Connect the repo to the project.
 1. Create a trigger.
+1. Add a tf resource to the dev branch. Make sure the build service account has bucket admin access.
